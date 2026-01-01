@@ -25,6 +25,8 @@ I am constantly improving my skills, learning modern software architecture, and 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -48,15 +50,16 @@ I am constantly improving my skills, learning modern software architecture, and 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dev-Augusto&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+![Augusto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dev-Augusto&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Dev-Augusto&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=Dev-Augusto&theme=dark&hide_border=true)
+
 
 ---
 
 ## 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Augusto&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Augusto&layout=compact&theme=dark&hide_border=true)
 
 ---
 
