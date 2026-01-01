@@ -48,22 +48,22 @@ I am constantly improving my skills, learning modern software architecture, and 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dev-Augusto&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USUARIO_GITHUB&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=Dev-Augusto&theme=dark)
 
 ---
 
 ## 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Augusto&layout=compact&theme=dark)
 
 ---
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/SEU-LINK-AQUI)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:SEUEMAIL@EMAIL.COM)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/augusto-tom%C3%A1s-637598308/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:augustocostatomas@gmail.com)
 
 ---
 
